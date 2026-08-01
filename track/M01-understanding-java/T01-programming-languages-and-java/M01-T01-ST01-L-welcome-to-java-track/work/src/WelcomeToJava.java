@@ -6,5 +6,7 @@ public class WelcomeToJava {
         System.out.println("I am excited to see what i can create with java");
         System.out.println("Let's start");
         System.out.println("i am ready to code");
+        System.out.println("i am ready to execute");
+
     }
 }
