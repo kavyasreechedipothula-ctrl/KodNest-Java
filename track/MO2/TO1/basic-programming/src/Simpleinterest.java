@@ -1,4 +1,4 @@
-public class Main {
+public class Simpleinterest {
     public static void main(String[] args) {
         // --- 1. Simple Interest Calculation ---
         double principal = 10000.0;
