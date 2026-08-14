@@ -6,7 +6,6 @@ public class UserInput {
         System.out.println("Enter int value");
         int a = scan.nextInt();
         System.out.println("integer value is: " + a);
-
         System.out.println("Enter a float value");
         float b = scan.nextFloat();
         System.out.println("float value is: " + b);
