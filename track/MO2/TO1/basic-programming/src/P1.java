@@ -3,7 +3,7 @@ public class P1 {
         int num = 22;
         if (num > 0) {
             System.out.println("the number is positive");
-        } else if (num == 0) {
+        } else if (num < 0) {
             System.out.println("the number is negative");
         } else {
             System.out.println("the number is zero");

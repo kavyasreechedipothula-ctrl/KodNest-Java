@@ -24,5 +24,6 @@ public class Array3D {
             }
             System.out.println();
         }
+        scan.close();
     }
 }
